@@ -1,11 +1,4 @@
-/**
- * @name AvatarIconViewer
- * @invite yNqzuJa
- * @authorLink https://discord.com/users/264163473179672576
- * @donate https://www.paypal.me/israelboone
- * @website https://kinzoku.one/
- * @source https://github.com/Metalloriff/BetterDiscordPlugins/blob/master/AvatarIconViewer.plugin.js
- */
+
 
 module.exports = (() => {
 	const config =
